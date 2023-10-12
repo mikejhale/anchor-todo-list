@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("6hk9P8FtQZC8kb4jLmzYWw5TD6bkqNb5gZWeSrkAnWng");
+declare_id!("GKNrKDKbT4KuTUekgrXA85HhjXcrs55vuXR4uk4JJXzs");
 
 #[program]
 pub mod todo_list_app {
